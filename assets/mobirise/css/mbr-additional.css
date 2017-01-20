@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+#image2-9 SMALL {
+  color: #b8312f;
+}
+#image2-9 I {
+  font-size: 24px;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  color: #553982;
+}
+#image2-9 B {
+  color: #553982;
+}
+#msg-box5-a .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-a .mbr-header__subtext {
+  color: #0a1b4d;
+  text-align: center;
+  font-size: 24px;
+}
+#msg-box5-a .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-a .btn {
+  font-size: 20px;
+}
+#msg-box5-c .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-c .mbr-header__subtext {
+  color: #0a1b4d;
+  font-size: 24px;
+}
+#msg-box5-c .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-c .btn {
+  font-size: 20px;
+}
+#ext_menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #fac51c;
+}
+#ext_menu-3 .mbr-navbar__section {
+  background: #fac51c;
+}
+#ext_menu-3 .mbr-navbar__hamburger {
+  color: #fac51c;
+}
+#ext_menu-3 .mbr-navbar__items a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+}
+#ext_menu-3 .mbr-brand__name a {
+  font-size: 32px;
+}
+
+#ext_menu-3 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-3.mbr-navbar--stuck .mbr-navbar__section {
+  background: #fac51c;
+}
+#ext_menu-3 .mbr-navbar__section {
+  background: #fac51c;
+}
+#ext_menu-3 .mbr-navbar__hamburger {
+  color: #fac51c;
+}
+#ext_menu-3 .mbr-navbar__items a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+}
+#ext_menu-3 .mbr-brand__name a {
+  font-size: 32px;
+}
